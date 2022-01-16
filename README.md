@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![HitCount](http://hits.dwyl.com/NikhileshShah01/{project}.svg?style=flat-square)](http://hits.dwyl.com/NikhileshShah01/{project})
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhileshShah01&theme=radical)
