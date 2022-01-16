@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image title](https://rushter.com/counter.svg)
+![image title](https://github.com/NikhileshShah01/counter.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhileshShah01&theme=radical)
