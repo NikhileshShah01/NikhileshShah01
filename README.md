@@ -11,7 +11,7 @@ My name is Nikhilesh Shah and I am currently in my 3rd year, pursuing Bachelor o
 - 🔭 I’m currently working on my Competative Programming skills.
 - 🌱 I’m currently learning about Django framework.
 - 👯 I’m looking to collaborate on Web Development and Machine Learning Projects.
-- 📫 How to reach me: You can contact me via email on nikhileshshah10@gmail.com
+- 📫 How to reach me: You can contact me via my Linkedin Profile https://www.linkedin.com/in/nikhilesh-shah-1873a8237/
 - ⚡ Fun fact: I also love to play Cricket and Kabbaddi.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhileshShah01&theme=radical)
