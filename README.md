@@ -10,7 +10,7 @@ My name is Nikhilesh Shah and I am currently in my 3rd year, pursuing Bachelor o
 
 - 🔭 I’m currently working on my Competative Programming skills.
 - 🌱 I’m currently learning about Django framework.
-- 👯 I’m looking to collaborate on Web Development and Machine Learning Projects.
+- 👯 I’m looking to collaborate on Web Development and API-based Projects.
 - 📫 How to reach me: You can contact me via my Linkedin Profile www.linkedin.com/in/nikhilesh-shah
 - ⚡ Fun fact: I also love to play Cricket and Kabbaddi.
 
