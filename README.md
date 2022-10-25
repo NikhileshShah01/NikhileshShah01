@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-My name is Nikhilesh Shah and I am currently in my 3rd year, pursuing Bachelor of Technology in Computer Science & Engineering from Mahakal Institute of Technology, Ujjain. I have proficiency in Python Programming language and I like to convert my ideas into reality through my codes. I have also worked with C, C++, Java, HTML, CSS, SQLite and I also have a keen interest in exploring topics like ML and AI. I have good knowledge on data structures, object oriented programming and database management system alongside with academics.
+My name is Nikhilesh Shah and I am currently in my final year, pursuing Bachelor of Technology in Computer Science & Engineering from Mahakal Institute of Technology, Ujjain. I have proficiency in Python Programming language and I like to convert my ideas into reality through my codes. I have also worked with C, C++, Java, HTML, CSS, SQLite and I also have a keen interest in exploring topics like ML and AI. I have good knowledge on data structures, object oriented programming and database management system alongside with my academics.
 
 - 🔭 I’m currently working on my Competative Programming skills.
 - 🌱 I’m currently learning about Django framework.
